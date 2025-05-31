@@ -13,7 +13,7 @@ We use the **Chest X-Ray Dataset** for pneumonia detection.
 - **PyTorch** (Deep Learning Framework)
 - **Torchvision** (Image Processing & Augmentation)
 - **Matplotlib** (Data Visualization)
-- **PIL (Pillow)** (Image Manipulation)
+- **PIL (Pillow)** (Image Manipulation)_
 
 ## 📌 Features
 ✅ **Dataset Preprocessing & Augmentation**  
