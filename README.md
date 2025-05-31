@@ -5,7 +5,7 @@ This project demonstrates **Chest X-Ray Classification** using **Convolutional N
 
 ## 📂 Dataset
 We use the **Chest X-Ray Dataset** for pneumonia detection.
-- **Dataset Source:** https://drive.google.com/file/d/1-SWJ_nIgotQ11ZHapb-uqWndvzeRs80d/view?usp=sharing
+- **Dataset Source:** https://drive.google.com/file/d/1d6G2RkXVNnMBJTO-QWCx6QZ2bMElMqgu/view?usp=drive_link
 - The dataset is preprocessed and augmented to improve model generalization.
 
 ## 🛠️ Technologies Used
